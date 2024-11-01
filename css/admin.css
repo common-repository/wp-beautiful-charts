@@ -1,0 +1,30 @@
+.form_wpbc label {
+	display: inline-block;
+	width: 200px;
+	vertical-align: top;
+}
+
+.form_wpbc input[type=text], .form_wpbc textarea, .form_wpbc select {
+	width: 200px;
+}
+
+.beautiful_chart {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+}
+
+.beautiful_chart h3 {
+	font-style: 20px;
+}
+
+.show_help_wpbc {
+	cursor: pointer;
+}
+
+.help_wpbc {
+	display: none;
+	margin-top: 5px;
+	padding: 5px;
+	background: #eee;
+	border: 1px solid #ccc;
+}
